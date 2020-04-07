@@ -1,14 +1,10 @@
 {
   "name": "vue-json-rpc-client-fetch-withcredentials-withcallbacksbystatus",
-  "version": "1.5.0",
+  "version": "1.5.2",
   "description": "A simple vue.js fetch based JSON RPC client written in ES6.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pedroresende/vue-json-rpc-client-fetch-withcredentials.git"
   },
   "keywords": [
     "json",
@@ -19,7 +15,7 @@
   ],
   "author": "Pedro Resende <pedro.m.m.resende@gmail.com>",
   "contributors": [
-    "Yan Djin <yandjin@gmail.com"
+    "Yanis Bouzidi <yanis.bouzidi@kwanko.com>"
   ],
   "license": "MIT",
   "bugs": {
@@ -27,6 +23,6 @@
   },
   "homepage": "https://github.com/YanDjin/vue-json-rpc-client-fetch-withcredentials-withcallbacksbystatus#readme",
   "dependencies": {
-    "json-rpc-client-fetch-withcredentials": "github:YanDjin/json-rpc-client-fetch-withcredentials"
+    "json-rpc-client-fetch-withcredentials": "github:YanDjin/json-rpc-client-fetch-withcredentials-withcallbacksbystatus"
   }
 }
